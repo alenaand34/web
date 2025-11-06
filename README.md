@@ -1,5 +1,5 @@
  "Тестирование веб-приложений"  
- Тестирование интернет магазина https://qa.demoshopping.ru    
+ Тестирование интернет магазина https://qa.demoshopping.ru Создала тест-план, чек-лист, тест-кейсы, тестовый прогон, отчеты о дефекте и осуществила перехват трафика
  [Тест-план для приложения интернет магазин](https://docs.google.com/spreadsheets/d/1l2u_GCgg-zUkBgKb-iGk75BUYHx2KKHY-YfZfmi4m8Q/edit?usp=sharing)   
  [Чек-лист для приложения интернет магазин для модуля корзины и оплаты ](https://docs.google.com/spreadsheets/d/1ve-IXIIvH9Mhgr9qDG7xp70eq1qq3gL2PXuQEBm2PUA/edit?usp=sharing)  
  [Тест-кейсы для приложения интернет магазин для модуля корзины и оплаты](https://github.com/alenaand34/web/blob/main/Web%20testing.pdf)  
